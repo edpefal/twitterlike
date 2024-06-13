@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterLike</string>
+    <string name="home_header">"Hello \uD83D\uDC4B"</string>
+    <string name="error_text">An error occurred, try again later</string>
+    <string name="loading">Loading…</string>
+    <string name="fetching_data">Fetching some data…</string>
+</resources>
